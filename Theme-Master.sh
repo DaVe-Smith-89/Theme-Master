@@ -25,7 +25,7 @@ tool(){
 logo
 xdg-open https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ
 echo
-echo -e "\e[1;33m               [1] Powerlevel10K"
+echo -e "\e[1;33m               [1] Powerlevel10K (Custom Theme)"
 echo -e "\e[1;33m               [2] Oh My zsh"
 echo -e "\e[1;33m               [3] Main Menu"
 echo

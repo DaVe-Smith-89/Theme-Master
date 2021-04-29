@@ -23,7 +23,7 @@ echo -e "\e[49m "
 }
 tool(){
 logo
-xdg-open https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ
+xdg-open https://youtu.be/U7DyByPzzWw
 echo
 echo -e "\e[1;33m               [1] Powerlevel10K (Custom Theme)"
 echo -e "\e[1;33m               [2] Oh My zsh"
